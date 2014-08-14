@@ -162,6 +162,22 @@ header .intro-text .skills {
     font-weight: 700;
 }
 
+#page-top > nav > div > div.navbar-header.page-scroll > a,
+#bs-example-navbar-collapse-1 > ul > li > a,
+#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li > a {
+    color: #F0F1BC;
+}
+
+#page-top > nav > div > div.navbar-header.page-scroll > a:hover,
+#bs-example-navbar-collapse-1 > ul > li > a:hover,
+#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li > a:hover {
+    color: #FF360E;
+}
+
+#bs-example-navbar-collapse-1 > ul.nav.navbar-nav.navbar-right > li.page-scroll.active > a{
+    color: #191F04;
+}
+
 .navbar a:focus {
     outline: 0;
 }
