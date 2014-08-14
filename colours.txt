@@ -3,5 +3,6 @@ name       : old     : new
 background : 18b-c9c : FF360E
 header     : 2c3-e50 : 30182B
 footer     : 233-140 : 191F04
-well       : ecf-0f1 : F0F1BC
-active     : 1a2-42f : 60F0C0 
+well       : ecf-0f1 : 191F04
+active     : 1a2-42f : 60F0C0
+light                : F0F1BC 
